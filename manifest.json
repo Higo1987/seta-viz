@@ -1,7 +1,7 @@
 {
-  "visualization": "seta_indicadora",
+  "visualization": "arrowComponent",
   "components": {
-    "seta_indicadora": {
+    "arrowComponent": {
       "script": "arrowComponent.js",
       "useIframe": true
     }
