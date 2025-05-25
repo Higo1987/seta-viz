@@ -1,0 +1,13 @@
+{
+  "visualization": "arrowComponent",
+  "components": {
+    "arrowComponent": {
+      "script": "arrowComponent.js",
+      "useIframe": true
+    }
+  },
+  "style": {
+    "displayName": "Seta Indicadora",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arrow_up_font_awesome.svg/240px-Arrow_up_font_awesome.svg.png"
+  }
+}
