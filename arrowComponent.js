@@ -1,4 +1,4 @@
-looker.plugins.visualizations.add({
+looker.plugins.visualizations.add('arrowComponent', {
   create: function (element, config) {
     element.innerHTML = '<div id="arrow-container" style="font-size: 48px; text-align: center;"></div>';
   },
